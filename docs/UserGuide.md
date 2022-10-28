@@ -43,6 +43,7 @@ This user guide provides in-depth descriptions of all the available features in 
 ![UiComponentLabels](images/UiComponentLabels.png)
 
 ### Use of the components
+
 | Component                              | Use                                                               |
 |----------------------------------------|-------------------------------------------------------------------|
 | **Command Box**                        | This is where you enter your commands.                            |
